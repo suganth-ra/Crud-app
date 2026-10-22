@@ -54,7 +54,7 @@ const Checkout = () => {
                 </p>
               </div>
               <div>
-                <label className="tw-block tw-text-xs tw-text-gray-500 tw-mt-2 tw-mb-1">Email</label>
+                <label className="tw-block tw-text-gray-500 tw-mt-2 tw-mb-1">Email</label>
                 <p className="tw-text-sm tw-text-gray-800">{user?.email}</p>
               </div>
               <div className="tw-bg-yellow-50 tw-border tw-border-yellow-200 tw-rounded tw-p-3 tw-text-xs tw-text-yellow-700">
